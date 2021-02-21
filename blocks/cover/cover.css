@@ -7,7 +7,7 @@
     background-position: center;
     box-sizing: border-box;
     background-size: cover;
-    max-width: calc(100% - 2*48px); 
+    max-width: calc(100% - 2*48px);
     align-items: center;
     position: relative;
     margin: 92px auto 0;

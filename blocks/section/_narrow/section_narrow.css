@@ -1,5 +1,5 @@
 .section_narrow {
-    max-width: calc(100%-2*148px);
+    max-width: calc(100% - 2*148px);
     margin-left: 148px;
 } 
 
