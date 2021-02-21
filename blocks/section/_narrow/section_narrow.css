@@ -1,0 +1,18 @@
+.section_narrow {
+    max-width: calc(100%-2*148px);
+    margin-left: 148px;
+} 
+
+@media screen and (max-width: 1279px) {
+    .section_narrow {
+        max-width: calc(100% - 2*48px);
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        margin: 88px auto 0;
+        max-width: calc(100% - 2*24px);
+    }
+}
