@@ -1,6 +1,5 @@
 .place {
     max-width: 984px;
-    min-height: 660px;
     margin: 80px auto 0;
     display: grid;
     grid-gap: 48px 40px;
@@ -22,6 +21,7 @@
     .place {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
+        margin-top: 73px;
     }
 }
 
@@ -29,5 +29,6 @@
     .place {
         grid-template-columns: 1fr;
         gap: 32px;
+        margin-top: 50px;
     }
 }

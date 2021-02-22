@@ -4,4 +4,10 @@
     margin: 0;
     text-decoration: underline;
     color: white;
+    transition: opacity .3s linear;
+    opacity: 1;
+}
+
+.place__link:hover {
+    opacity: .8;
 }

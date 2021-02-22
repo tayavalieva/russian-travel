@@ -5,6 +5,13 @@
     text-decoration: none;
     line-height: 28px;
     margin-right: 18px;
+    color: white;
+    transition: opacity .3s linear;
+    opacity: 1;
+}
+
+.header__lang-link:hover {
+    opacity: .8;
 }
 
 .header__lang-link:last-of-type {
